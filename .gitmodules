@@ -1,0 +1,6 @@
+[submodule "react-docker-sample"]
+	path = react-docker-sample
+	url = https://github.com/PedroFAC/react-docker-sample
+[submodule "express-docker-sample"]
+	path = express-docker-sample
+	url = https://github.com/PedroFAC/express-docker-sample
